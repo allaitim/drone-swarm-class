@@ -9,11 +9,11 @@ Divy Raval,  Emily Hunter, Sinclair Hudson,  Anthony Damini, and Bhashyam Balaji
 
 ## Requirements
 
-pytorch
-scipy
-numpy
-matplotlib
-scikit-learn
+- pytorch
+- scipy
+- numpy
+- matplotlib
+- scikit-learn
 
 
 
