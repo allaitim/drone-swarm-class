@@ -31,7 +31,6 @@ fastload - for faster data loading; script taken from:
 https://discuss.pytorch.org/t/dataloader-much-slower-than-manual-batching/27014
 
 
-
 1.To obfain resuts with the synthetic  dataset provided in the repository, use the imagecreation.py file. Train the model using the data generated and implemented into train.py file. Then, with the data generated for testing, use the test.py script.
 2. To apply the model to your own dataset, use the train.py and test.py scripts.
 
