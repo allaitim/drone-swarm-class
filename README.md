@@ -7,7 +7,6 @@ Divy Raval,  Emily Hunter, Sinclair Hudson,  Anthony Damini, and Bhashyam Balaji
 
 
 
-
 ## Requirements
 
 pytorch
